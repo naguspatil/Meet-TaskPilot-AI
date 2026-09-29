@@ -1,0 +1,7 @@
+{
+  "name": "TaskAI - Smart AI Task Manager",
+  "description": "Next-generation native AI task assistant featuring natural language task capture, Copilot scheduling, automatic subtask milestone planning, and focus intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
